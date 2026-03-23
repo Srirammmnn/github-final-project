@@ -1,4 +1,4 @@
-# Full Stack Simple Interest Calculator
+ Simple Interest Calculator
 
 ## 📌 Project Overview
 
